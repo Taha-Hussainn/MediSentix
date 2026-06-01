@@ -126,11 +126,11 @@ if df is None:
 
 Upload a dataset to:
 
-✅ Analyze sentiments  
-✅ Perform clustering  
-✅ Generate predictions  
-✅ View model performance  
-✅ Explore NLP pipeline  
+Analyze sentiments  
+Perform clustering  
+Generate predictions  
+View model performance  
+Explore NLP pipeline  
 
 Use the sidebar to upload dataset and navigate pages.
 """)
